@@ -1,6 +1,6 @@
 import * as cheerio from 'cheerio';
 
-export default function popmartus(html) {
+export default function popmart(html) {
 	try {
 		// const TITLE_SELECTOR = "#productTitle";
 		// const IMAGE_SELECTOR = "#landingImage";
