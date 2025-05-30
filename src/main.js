@@ -26,6 +26,7 @@ import neweggFunction from "./stores/newegg.js";
 import targetFunction from "./stores/target.js";
 import tescoFunction from "./stores/tesco.js";
 import walmartFunction from "./stores/walmart.js";
+import popmartusFunction from "./stores/popmartus.js";
 
 const storeFunctionMap = {
 	amazon: amazonFunction,
@@ -40,6 +41,7 @@ const storeFunctionMap = {
 	target: targetFunction,
 	tesco: tescoFunction,
 	walmart: walmartFunction,
+	popmartus:popmartusFunction,
 };
 
 // Read config.json
