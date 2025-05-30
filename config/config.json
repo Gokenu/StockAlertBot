@@ -30,7 +30,8 @@
 		"newegg",
 		"target",
 		"tesco",
-		"walmart"
+		"walmart",
+		"popmartus"
 	],
 	"SUPPORTED_PROXY_DOMAINS": [
 		"amazon",
